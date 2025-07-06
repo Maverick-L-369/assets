@@ -1,0 +1,20 @@
+{
+  "name": "LMR Token List",
+  "logoURI": "https://raw.githubusercontent.com/Maverick-L-369/assets/5b2e80680ba6b9427ef250570af3ec150139419a/blockchains/polygon/assets/logo.png",
+  "keywords": ["LMR", "limitless", "rise", "defi"],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tokens": [
+    {
+      "chainId": 137,
+      "address": "0x4df3c7de6acb90796be5c36eaf9755a7fd252168",
+      "name": "Limitless Rise",
+      "symbol": "LMR",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/Maverick-L-369/assets/5b2e80680ba6b9427ef250570af3ec150139419a/blockchains/polygon/assets/logo.png"
+    }
+  ]
+}
