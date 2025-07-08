@@ -1,0 +1,19 @@
+{
+  "name": "Limitless Rise",
+  "symbol": "LMR",
+  "type": "ERC20",
+  "decimals": 18,
+  "description": "Limitless Rise (LMR) is an ultra-scarce micro-cap token engineered for attention-driven growth, meme-fueled culture, and viral market dynamics within the Web3 ecosystem.",
+  "website": "",
+  "explorer": "https://polygonscan.com/token/0x4df3c7de6acb90796be5c36eaf9755a7fd252168",
+  "status": "active",
+  "id": "0x4df3c7de6acb90796be5c36eaf9755a7fd252168",
+  "tags": ["deflationary", "scarce", "meme", "utility"],
+  "logo": {
+    "src": "logo.png",
+    "type": "image/png",
+    "width": "512",
+    "height": "512"
+  },
+  "links": []
+}
